@@ -1,6 +1,6 @@
 ## Prerequisites
 
-python3
+[Python 3](https://www.python.org/)
 
 ## Usage
 
